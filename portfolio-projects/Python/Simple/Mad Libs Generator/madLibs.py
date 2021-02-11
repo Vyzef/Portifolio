@@ -60,9 +60,11 @@ def Sports():
 b1 = Button(window, text = "Cooking Pot", font = "roboto 25", bg = "aquamarine", command = Pot)
 b1.config(anchor=CENTER)
 b1.pack()
+
 b2 = Button(window, text = "Hobbies", font = "roboto 25", bg = "aquamarine", command = Hobbies)
 b2.config(anchor=CENTER)
 b2.pack()
+
 b3 = Button(window, text = "Sports", font = "roboto 25", bg = "aquamarine", command = Sports)
 b3.config(anchor=CENTER)
 b3.pack()
