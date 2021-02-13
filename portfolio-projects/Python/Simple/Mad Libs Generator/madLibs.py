@@ -1,6 +1,4 @@
-# Mad Libs is a game where the player writes random words based on the question, and then gets a whole story at the end
 # Mad Libs é um jogo onde o participante escreve uma serie de palavras aleatórias baseadas na pergunta e recebe uma história
-# Besides the game, which is basically made from input()s and print()s, I will also add a custom window with buttons
 # Além do jogo, que é basicamente feito com input()s e print()s, também vou adicionar uma janela própria com botões
 
 

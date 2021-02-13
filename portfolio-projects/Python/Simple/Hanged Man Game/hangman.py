@@ -1,5 +1,3 @@
-#   A hangman game with a set of pre written words that a randomizer will choose from.
-
 import random
 
 def hangman():

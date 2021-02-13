@@ -1,4 +1,4 @@
-#   A simple d20 simulator
+
 
 #   Importa random para gerar um numero enter 1 e 20, enquanto o modulo time serve para criar um delay na resposta.
 import random
