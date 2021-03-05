@@ -1,0 +1,3 @@
+# Binary Search Algorithm
+
+This program will create a list of random numbers between 0 to 100, with a difference between 2 then. When the user inputs a random number, the program will check if that number is included in the list. It will do so by creating two halves of the list. If the program finds the number in the first half of the list, it will eliminate the other half and vice versa. The search will continue until the program finds the number input of the user or until the subarray size becomes 0 (this means that the number is not in the list).
