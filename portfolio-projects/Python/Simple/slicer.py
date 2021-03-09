@@ -1,8 +1,10 @@
+#WIP
+
 import random
 from time import sleep
 
 def slice():
-    print("Obrigado por escolher nosso programa para seu uso.") #strip remove os espaços antes e depois
+    print("Obrigado por escolher nosso programa para seu uso.") 
     email = "ol.sa.gabriel@gmail.com"
     normalUser = email[:email.index("@")]                                                                   
     normalDomain = email[:email.index("@")]
